@@ -7,6 +7,44 @@ I'm a software developer and AI enthusiast passionate about creating innovative 
 🌌 Full-Stack Curvature Calculator: A web-based tool rooted in general relativity theory, integrating my skills in React, TypeScript, Django, and advanced physics computations.
 🤖 Neural Network Facial Recognition: Training a custom-built neural network from scratch in Python to recognize faces, aimed at practical home security implementations.
 
+# iTensor
+
+> A symbolic tensor calculator for general relativity — built from scratch.
+
+iTensor is a scientific tool that computes Christoffel symbols, Ricci, Einstein, and Weyl tensors from user-defined spacetime metrics. Designed for physicists, students, and developers working with differential geometry and general relativity.
+
+This is the backend engine powering [iTensor.online](https://itensor.online), an open tool built as part of my engineering thesis and continued as a solo project.
+
+---
+
+## 🔧 Features
+
+- Input arbitrary metric tensors in coordinate form
+- Compute:
+  - Christoffel symbols
+  - Ricci tensor & scalar
+  - Einstein tensor
+  - (Planned) Riemann & Weyl tensors
+- Outputs LaTeX and JSON
+- Powered by Python + SymPy
+
+---
+
+## 🌍 Try it
+
+- Web App: [https://itensor.online](https://itensor.online)  
+- Docs: [https://itensor-docs.com](https://itensor-docs.com)
+
+---
+
+## 💻 Getting Started
+
+```bash
+git clone https://github.com/Klaudiusz321/Tensor-backend-calculator.git
+cd Tensor-backend-calculator
+pip install -r requirements.txt
+python main.py
+
 🛠️ Technologies & Tools:
 
 Languages: Python, JavaScript/TypeScript, C, SQL
