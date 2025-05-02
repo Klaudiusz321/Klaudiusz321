@@ -1,50 +1,70 @@
-# 👋 Hi, I'm Klaudiusz!
+# 👋 Klaudiusz Sroka
 
-I'm a software developer and AI enthusiast passionate about creating innovative solutions at the intersection of **physics**, **software engineering**, and **artificial intelligence**.
-
----
-
-## 🚀 What I'm Currently Working On
-
-- ⚛️ **iTensor Project**: A tensor calculator app built with React + TypeScript frontend and Django backend. It computes Einstein and Weyl tensors from user-defined metrics and is tailored to scientists and students.
-- 🌌 **Curvature Calculator** *(Full-Stack)*: A general relativity web tool combining frontend design and backend physics simulation, focused on accurate curvature and spacetime computations.
-- 🤖 **Neural Network Facial Recognition**: A home security tool using a neural network (built from scratch in NumPy) to detect and recognize faces.
+I'm a scientific software developer with a degree in Technical Physics. I build symbolic engines, backend systems, and simulations focused on general relativity, tensor calculus, and physical computing. My work bridges physics, open-source development, and backend engineering.
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🧠 Projects
 
-**Languages**: Python, JavaScript/TypeScript, C, SQL  
-**Frameworks & Libraries**: React, Django, Node.js  
-**Databases**: PostgreSQL  
-**AI/ML**: Neural Networks (custom), TensorFlow (basics)  
-**Physics & Math**: General Relativity, Tensor Calculations, Symbolic & Numerical Methods
+### 🔷 iTensor
+**Symbolic and numerical computation platform** for general relativity. Computes Christoffel symbols, Ricci, Einstein, and Weyl tensors from user-defined metrics. Full-stack architecture with React + Django.  
+→ [https://itensor.online](https://itensor.online)  
+→ [Documentation](https://itensor-docs.com)
+
+### 📦 iTensorPy
+**Python package** for symbolic tensor computation using SymPy. Supports metric definitions, curvature tensors, differential operations (gradient, divergence, Laplacian), and MHD tools.  
+→ [PyPI](https://pypi.org/project/itensorpy/)  
+→ [Source](https://github.com/Klaudiusz321/itensorpy)
+
+### 🕳️ Raytracing Engine in C
+**Real-time black hole simulation engine** written in C. Simulates geodesic motion, light deflection, and relativistic effects in curved spacetime using ray tracing.  
+→ [GitHub](https://github.com/Klaudiusz321/raytracing-engine-in-c)
+
+### 🤖 Modular AI Agents
+CLI-based framework for orchestrating autonomous AI agents. Includes task delegation, state awareness, and cooperative planning between modules.  
+→ [GitHub](https://github.com/Klaudiusz321/AI-Agents-Army)
+
+### 🌐 CLI Web Scraper Tool
+Python-based command-line utility for structured data scraping. Useful for research metadata extraction and automated dataset creation.  
+→ [GitHub](https://github.com/Klaudiusz321/Web-Scraper-CLI)
+
+---
+
+## 🛠️ Technologies
+
+**Languages**: Python, TypeScript, C, SQL  
+**Frameworks**: React, Django, FastAPI, Node.js  
+**Scientific Tools**: SymPy, NumPy, SciPy  
+**Backend Tools**: Docker, Nginx, PostgreSQL, GitHub Actions  
+**Physics Domains**: Tensor calculus, general relativity, symbolic and numerical simulation
 
 ---
 
 ## 🎓 Background
 
-- 🎓 **B.Sc. in Technical Physics**, Politechnika Krakowska (Cracow University of Technology)  
-- 💼 Former **WordPress Developer** (UX/UI focus), now fully dedicated to AI and scientific software development.
+- **B.Sc. in Technical Physics**, Cracow University of Technology  
+- Erasmus: Comillas Pontifical University, Madrid  
+- Former WordPress Developer (UX/UI + Elementor)
 
 ---
 
-## 💡 Interests
+## 🛰️ Interests
 
-- Building AI tools that actually help people  
-- Making complex physics concepts accessible via interactive tools  
-- Exploring space tech, quantum computing, and simulation
-
----
-
-## 🌐 Connect with Me
-
-- 🔗 [LinkedIn](#)
-- 🌍 [iTensor Project Website](https://itensor.online)  
-- 📚 [Documentation](https://itensor-docs.com)
-
-Feel free to reach out or collaborate — I'm always open to great ideas!
+- High-performance scientific computing  
+- Symbolic and differential geometry engines  
+- C-based physics engines and real-time spacetime simulation  
+- Open-source infrastructure for research and education
 
 ---
 
-> Happy coding! 🚀
+## 🔗 Links
+
+- 🌐 Website: [https://itensor.online](https://itensor.online)  
+- 📚 Docs: [https://itensor-docs.com](https://itensor-docs.com)  
+- 📦 PyPI: [https://pypi.org/project/itensorpy/](https://pypi.org/project/itensorpy/)  
+- 🔧 GitHub: [https://github.com/Klaudiusz321](https://github.com/Klaudiusz321)  
+- 💼 LinkedIn: [https://www.linkedin.com/in/klaudiusz-sroka-33274b327/](https://www.linkedin.com/in/klaudiusz-sroka-33274b327/)
+
+---
+
+**Independent, self-directed, focused on building real scientific tools.**
