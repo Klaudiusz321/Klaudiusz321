@@ -20,14 +20,6 @@ I'm a scientific software developer with a degree in Technical Physics. I build 
 **Real-time black hole simulation engine** written in C. Simulates geodesic motion, light deflection, and relativistic effects in curved spacetime using ray tracing.  
 → [GitHub](https://github.com/Klaudiusz321/raytracing-engine-in-c)
 
-### 🤖 Modular AI Agents
-CLI-based framework for orchestrating autonomous AI agents. Includes task delegation, state awareness, and cooperative planning between modules.  
-→ [GitHub](https://github.com/Klaudiusz321/AI-Agents-Army)
-
-### 🌐 CLI Web Scraper Tool
-Python-based command-line utility for structured data scraping. Useful for research metadata extraction and automated dataset creation.  
-→ [GitHub](https://github.com/Klaudiusz321/Web-Scraper-CLI)
-
 ---
 
 ## 🛠️ Technologies
