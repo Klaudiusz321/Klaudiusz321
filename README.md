@@ -30,7 +30,6 @@ Check out the ecosystem: [MolCrafts GitHub](https://github.com/MolCrafts)
 
 ## 📚 I'm interested in:
 
-- General relativity, spacetime simulation  
 - Scientific software and symbolic engines  
 - Hybrid AI + physics architectures  
 - Open-source scientific tooling
