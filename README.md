@@ -1,62 +1,45 @@
-# 👋 Klaudiusz Sroka
+# 👋 Hi, I'm Klaudiusz Sroka
 
-I'm a scientific software developer with a degree in Technical Physics. I build symbolic engines, backend systems, and simulations focused on general relativity, tensor calculus, and physical computing. My work bridges physics, open-source development, and backend engineering.
-
----
-
-## 🧠 Projects
-
-### 🔷 iTensor
-**Symbolic and numerical computation platform** for general relativity. Computes Christoffel symbols, Ricci, Einstein, and Weyl tensors from user-defined metrics. Full-stack architecture with React + Django.  
-→ [https://itensor.online](https://itensor.online)  
-→ [Documentation](https://itensor-docs.com)
-
-### 📦 iTensorPy
-**Python package** for symbolic tensor computation using SymPy. Supports metric definitions, curvature tensors, differential operations (gradient, divergence, Laplacian), and MHD tools.  
-→ [PyPI](https://pypi.org/project/itensorpy/)  
-→ [Source](https://github.com/Klaudiusz321/itensorpy)
-
-### 🕳️ Raytracing Engine in C
-**Real-time black hole simulation engine** written in C. Simulates geodesic motion, light deflection, and relativistic effects in curved spacetime using ray tracing.  
-→ [GitHub](https://github.com/Klaudiusz321/raytracing-engine-in-c)
+I'm a software developer, physics enthusiast, and the creator of [iTensor-docs](https://itensor-docs.com) — a symbolic and numerical tensor engine for scientific computing.  
+I build tools that blend physics, mathematics, and intelligent automation.  
+I'm also contributing to the development of [MolCrafts](https://molcrafts.org), a modular open-source platform for molecular modeling and machine learning.
 
 ---
 
-## 🛠️ Technologies
+## 🚀 What I'm building
 
-**Languages**: Python, TypeScript, C, SQL  
-**Frameworks**: React, Django, FastAPI, Node.js  
-**Scientific Tools**: SymPy, NumPy, SciPy  
-**Backend Tools**: Docker, Nginx, PostgreSQL, GitHub Actions  
-**Physics Domains**: Tensor calculus, general relativity, symbolic and numerical simulation
+### 🌌 [iTensor](https://itensor-docs.com)  
+A browser-based tensor computation engine for general relativity, geometry, and magnetohydrodynamics.  
+- 🌐 [Live demo](https://itensor.online)  
+- 📦 [itensorpy on PyPI](https://pypi.org/project/itensorpy/)
 
----
-
-## 🎓 Background
-
-- **B.Sc. in Technical Physics**, Cracow University of Technology  
-- Erasmus: Comillas Pontifical University, Madrid  
-- Former WordPress Developer (UX/UI + Elementor)
+### 🧬 MolCrafts (collaborator)  
+Contributing in Molcrafts project. 
+Check out the ecosystem: [MolCrafts GitHub](https://github.com/MolCrafts)
 
 ---
 
-## 🛰️ Interests
+## 🛠️ Tech & Tools
 
-- High-performance scientific computing  
-- Symbolic and differential geometry engines  
-- C-based physics engines and real-time spacetime simulation  
-- Open-source infrastructure for research and education
-
----
-
-## 🔗 Links
-
-- 🌐 Website: [https://itensor.online](https://itensor.online)  
-- 📚 Docs: [https://itensor-docs.com](https://itensor-docs.com)  
-- 📦 PyPI: [https://pypi.org/project/itensorpy/](https://pypi.org/project/itensorpy/)  
-- 🔧 GitHub: [https://github.com/Klaudiusz321](https://github.com/Klaudiusz321)  
-- 💼 LinkedIn: [https://www.linkedin.com/in/klaudiusz-sroka-33274b327/](https://www.linkedin.com/in/klaudiusz-sroka-33274b327/)
+- **Languages**: Python, TypeScript, C, LaTeX  
+- **Frameworks**: Django, React, FastAPI, Three.js  
+- **Scientific**: SymPy, NumPy, Jupyter, PyTorch  
+- **Infra**: Docker, GitHub Actions, HPC clusters (Alvis)
 
 ---
 
-**Independent, self-directed, focused on building real scientific tools.**
+## 📚 I'm interested in:
+
+- General relativity, spacetime simulation  
+- Scientific software and symbolic engines  
+- Hybrid AI + physics architectures  
+- Open-source scientific tooling
+
+---
+
+## 📫 Let's connect
+
+- LinkedIn: [klaudiusz-sroka](https://www.linkedin.com/in/klaudiusz-sroka-33274b327/)  
+
+
+
